@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/Gerador-de-Senha-JS/blob/main/LICENSE) 
 
-# Sobre o projeto
+# Sobre o projeto👓
 
 Primeira interface gráfica (simples) desenvolvida em Python utilizando o PySimpleGUI
 
